@@ -1,0 +1,15 @@
+C:\Users\Natej\source\repos\Maths\Maths\bin\Debug\net6.0\Maths.exe
+C:\Users\Natej\source\repos\Maths\Maths\bin\Debug\net6.0\Maths.deps.json
+C:\Users\Natej\source\repos\Maths\Maths\bin\Debug\net6.0\Maths.runtimeconfig.json
+C:\Users\Natej\source\repos\Maths\Maths\bin\Debug\net6.0\Maths.dll
+C:\Users\Natej\source\repos\Maths\Maths\bin\Debug\net6.0\Maths.pdb
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.csproj.AssemblyReference.cache
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.AssemblyInfoInputs.cache
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.AssemblyInfo.cs
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.csproj.CoreCompileInputs.cache
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.dll
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\refint\Maths.dll
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.pdb
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\Maths.genruntimeconfig.cache
+C:\Users\Natej\source\repos\Maths\Maths\obj\Debug\net6.0\ref\Maths.dll
