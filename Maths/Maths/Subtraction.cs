@@ -10,11 +10,11 @@ namespace Maths
     {
         public static void SubtractionPractice()
         {
-            try
-            {
-                bool continU = true;
-                while (continU)
-                {
+            bool continU = true;
+            while (continU) 
+            { 
+                try
+                {    
                     Random randInt = new Random();
                     int number1 = randInt.Next(0, 100);
                     int number2 = randInt.Next(0, 100);
@@ -57,10 +57,10 @@ namespace Maths
                         }
                     }
                 }
-            }
-            catch (FormatException wrongnumber)
-            {
-                Console.WriteLine(wrongnumber.Message);
+                catch (FormatException wrongnumber)
+                {
+                    Console.WriteLine(wrongnumber.Message);
+                }
             }
         }
     }

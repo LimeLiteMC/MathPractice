@@ -1,6 +1,8 @@
 ﻿using System;
-using System.Reflection.Metadata.Ecma335;
-using System.Security.Cryptography;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Maths
 {
@@ -8,10 +10,10 @@ namespace Maths
     {
         public static void AddPractice()
         {
-            try
+            bool continU = true;
+            while (continU)
             {
-                bool continU = true;
-                while (continU)
+                try
                 {
                     Random randInt = new Random();
                     int number1 = randInt.Next(0, 100);
