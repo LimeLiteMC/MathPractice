@@ -4,10 +4,10 @@ Phases of this Project:
 
 ##Phase 1##
 - Basic math:
-*Addition
-*Subtraction
-*Multiplication
-*Division
+* Addition
+* Subtraction
+* Multiplication
+* Division
 
 ##Phase 2##
 -Algebra
